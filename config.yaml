@@ -1,0 +1,6 @@
+path: D:/Pemrograman/Python/Project/Yolov8/data/
+train: train/images
+val: val/images
+
+names:
+  0: Panda
